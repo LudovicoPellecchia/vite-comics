@@ -22,7 +22,7 @@ export default {
       </div>
     </div>
     <Banner></Banner>
-
+    <TheFooter></TheFooter>
 
   </main>
 </template>

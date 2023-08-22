@@ -53,11 +53,11 @@ export default {
         justify-content: center;
         align-items: center;
         display: flex;
-        padding-right: 1.3rem;
+        padding-right: 3rem;
     }
     img{
-        width: 70px;
-        padding-right: 1rem;
+        height: 60px;
+        padding-right: 0.6rem;
     }
     .banner-title{
         color: white;

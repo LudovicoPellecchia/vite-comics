@@ -29,7 +29,7 @@ export default {
                 <div class="collapse navbar-collapse" id="navbarNav">
                     <ul class="navbar-nav" >
                         <li class="nav-item" v-for="link in navLinks">
-                            <a class="nav-link" href="#">{{link.name}}</a>
+                            <a class="nav-link" href="#">{{link.name.toUpperCase()}}</a>
                         </li>
                     </ul>
                 </div>
@@ -40,6 +40,7 @@ export default {
 
 <style lang="scss" scoped>
 nav{
-    padding: 1rem 0px;
+font-weight: 700;
+    padding: 1.3rem 0px;
 }
 </style>

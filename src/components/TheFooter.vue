@@ -81,8 +81,6 @@ export default {
 	display: flex;
 	background-image: url(../assets/img/footer-bg.jpg);
 
-	.flex-left-side {}
-
 
 	.footer-logo {
 		height: 400px;

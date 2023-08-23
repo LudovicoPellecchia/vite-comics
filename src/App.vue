@@ -22,9 +22,9 @@ export default {
       </div>
     </div>
     <Banner></Banner>
-    <TheFooter></TheFooter>
-
   </main>
+  <TheFooter></TheFooter>
+
 </template>
 
 <style lang="scss">
